@@ -1,0 +1,21 @@
+# KEY for searching
+oc_env=https://192.168.99.100:8443
+oc_env=https://openshift.default.svc.cluster.local
+
+# ocp app domain OD cluster and OCP cluster
+OD_OCP_TARGET_APP_DOMAIN=192.168.99.100.nip.io
+
+# nexus at OD and nexus at OCP
+OD_OCP_TARGET_NEXUS_URL=http://nexus-cd.192.168.99.100.nip.io/
+
+# bitbucket
+OD_OCP_TARGET_BITBUCKET_URL=http://192.168.56.31:7990
+
+# authproxy version
+OD_AUTHPROXY_VERSION=1.0
+
+# OCP shared space
+OD_OCP_SHARED_SPACE_TARGET=shared-services
+
+# service account namespace at OCP 
+OD_OCP_CD_SA_TARGET=cd:cd-integration

@@ -1,0 +1,27 @@
+# KEY for searching
+oc_env=https://192.168.99.100:8443
+oc_env=https://openshift.default.svc.cluster.local
+
+# ocp app domain OD cluster and OCP cluster^
+OD_OCP_SOURCE_APP_DOMAIN=192.168.99.100.nip.io
+
+# nexus at OD and nexus at OCP
+OD_OCP_SOURCE_NEXUS_URL=http://nexus-cd.192.168.99.100.nip.io/
+
+# bitbucket
+OD_OCP_SOURCE_BITBUCKET_URL=http://192.168.56.31:7990
+
+# jenkins master image space at OD - will be replaced by SHARED space
+OD_OCP_JENKINS_MASTER_IMAGE_SPACE_SOURCE=ODjenkins
+
+# OD OCP docker registry needed for rewrite
+OD_OCP_DOCKER_REGISTRY_SOURCE_INTERNAL_HOST=docker-registry.default.svc
+OD_OCP_DOCKER_REGISTRY_SOURCE_IP=192.168.99.100
+# OD OCP public registry cname
+OD_OCP_DOCKER_REGISTRY_SOURCE_HOST=registry.192.168.99.100.nip.io
+
+# OD shared space
+OD_OCP_SHARED_SPACE_SOURCE=shared-services
+
+# service account namespace at OD
+OD_OCP_CD_SA_SOURCE=cd:cd-integration
