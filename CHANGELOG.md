@@ -9,4 +9,4 @@
 
 Initial release.
 
-[Unreleased]: https://github.com/opendevstack/ods-project-quickstarters/compare/0.1.0...HEAD
+[Unreleased]: https://github.com/opendevstack/ods-configuration-sample/compare/0.1.0...HEAD
