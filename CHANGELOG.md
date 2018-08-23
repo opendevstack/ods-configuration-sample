@@ -1,6 +1,6 @@
 # Changelog
 
-## [unreleased]
+## [Unreleased]
 
 1. Documentation of all parameters
 1. Extraction of repeating ones into global one (https://github.com/opendevstack/ods-configuration-sample/blob/master/ods-configuration.env.sample)
