@@ -14,9 +14,6 @@ OD_OCP_SOURCE_BITBUCKET_URL=http://192.168.56.31:7990
 # jenkins master image space at OD - will be replaced by SHARED space
 OD_OCP_JENKINS_MASTER_IMAGE_SPACE_SOURCE=ODjenkins
 
-# OD OCP docker registry needed for rewrite
-OD_OCP_DOCKER_REGISTRY_SOURCE_INTERNAL_HOST=docker-registry.default.svc
-OD_OCP_DOCKER_REGISTRY_SOURCE_IP=192.168.99.100
 # OD OCP public registry cname
 OD_OCP_DOCKER_REGISTRY_SOURCE_HOST=registry.192.168.99.100.nip.io
 
