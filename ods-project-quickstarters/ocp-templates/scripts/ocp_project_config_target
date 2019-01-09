@@ -16,3 +16,6 @@ OD_OCP_SHARED_SPACE_TARGET=shared-services
 
 # service account namespace at OCP 
 OD_OCP_CD_SA_TARGET=cd:cd-integration
+
+# comma separated list of namespaces that should be exluded during import
+OD_EXCLUDE_NAMESPACES=cd,shared-images,openshift,rhscl
