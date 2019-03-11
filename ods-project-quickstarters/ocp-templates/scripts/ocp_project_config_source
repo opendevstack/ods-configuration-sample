@@ -11,6 +11,9 @@ OD_OCP_SOURCE_NEXUS_URL=http://nexus-cd.192.168.99.100.nip.io/
 # bitbucket
 OD_OCP_SOURCE_BITBUCKET_URL=http://192.168.56.31:7990
 
+# Sonarqube 
+OD_OCP_SOURCE_SQ_URL=http://sonarqube-cd.192.168.99.100.nip.io/
+
 # jenkins master image space at OD - will be replaced by SHARED space
 OD_OCP_JENKINS_MASTER_IMAGE_SPACE_SOURCE=ODjenkins
 

@@ -8,6 +8,9 @@ OD_OCP_TARGET_APP_DOMAIN=192.168.99.100.nip.io
 # nexus at OD and nexus at OCP
 OD_OCP_TARGET_NEXUS_URL=http://nexus-cd.192.168.99.100.nip.io/
 
+# Sonarqube 
+OD_OCP_TARGET_SQ_URL=http://sonarqube-cd.192.168.99.100.nip.io/
+
 # bitbucket
 OD_OCP_TARGET_BITBUCKET_URL=http://192.168.56.31:7990
 
