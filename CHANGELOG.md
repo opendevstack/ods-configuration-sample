@@ -3,6 +3,9 @@
 ## [Unreleased]
 
 ## [1.1.0] - 2019-05-28
+### Added
+- add configuration sample for new `nodejs10-angular` jenkins slave
+
 ### Changed
 - Update maven slave bc config sample with nexus information ([#21](https://github.com/opendevstack/ods-configuration-sample/pull/21))
 - Bug/sq url replace ([#26](https://github.com/opendevstack/ods-configuration-sample/pull/26))
