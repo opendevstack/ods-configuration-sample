@@ -1,6 +1,11 @@
 # Changelog
 
-## [Unreleased]
+## [1.2.0] - 2019-10-10
+
+### Added
+- add configurations for `prov-app`
+- add configurations for `be-golang`
+- add configurations for `airflow`
 
 ## [1.1.0] - 2019-05-28
 ### Added
